@@ -1,4 +1,4 @@
-## Breast-Cancer-Prediction [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Shyamspr/Breast-Cancer-Prediction/blob/master/LICENSE)
+## Breast-Cancer-Prediction [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Shyamspr/Breast-Cancer-Prediction/blob/master/LICENCE)
 This is a small project to test custom KNN algorithm on the dataset for breast cancer. 
 
 ## Dataset
