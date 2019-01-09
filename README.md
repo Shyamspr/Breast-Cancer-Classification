@@ -1,4 +1,4 @@
-## Breast-Cancer-Prediction
+## Breast-Cancer-Prediction [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Shyamspr/Breast-Cancer-Prediction/blob/master/LICENSE)
 This is a small project to test custom KNN algorithm on the dataset for breast cancer. 
 
 ## Dataset
@@ -20,5 +20,3 @@ This is Wisconsin Dataset for breast cancer but you will find it inside the root
 ## Run
 
 To run this project you will need some software, like Anaconda, which provides support for running .ipynb files (Jupyter Notebook).
-
-
