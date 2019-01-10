@@ -3,7 +3,7 @@ This is a small project to test custom KNN algorithm on the dataset for breast c
 
 ## Dataset
 
-This is Wisconsin Dataset for breast cancer but you will find it inside the root folder of this project.
+This is Wisconsin Dataset for breast cancer.
 
 ## Install
 
